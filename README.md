@@ -24,7 +24,9 @@
 ![Посмотр в gitbash](screenshots/git-watchabout.jpg)
 #### 9. Выполнено слияние веток
 ![Конфликт слияния](screenshots/git_merge.jpg)
+
 Конфликт слияния разрешен в программе pycharm объединением в один файл
+
 ![Решения конфликта](screenshots/pch-fix.jpg)
 #### 10. Удалена побочная ветка
 ![Удаление ветви в gitbash](screenshots/git-deletebranch.jpg)
